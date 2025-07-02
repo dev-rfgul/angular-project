@@ -1,0 +1,12 @@
+templates:
+    templates are the html written which is to be diplayed in some Components
+interpolation:
+    interpolation means showing/displaying data from the view in the template, this is done using {{variable}}
+property Binding:
+    property binding means, associating the value of an html tag , which will be sent to the view, syntax: [property]="variable"
+event binding:
+    event binging means binding the event , like on click , on mouse over etc its syntax is (click)="func_name()"
+two way data binding:
+    it means that data can be sent from view to template and template to view this is done by combining the event and property binding,
+    it syntax is also mixture of both. [(ngModel)]="variable" 
+
