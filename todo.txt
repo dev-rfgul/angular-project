@@ -1,0 +1,39 @@
+🔹 Core Concepts
+Components
+
+Templates and Interpolation
+
+Property Binding
+
+Event Binding
+
+Two-way Data Binding ([(ngModel)])
+
+Directives
+
+Structural (*ngIf, *ngFor)
+
+Attribute ([ngClass], [ngStyle])
+
+🔹 Working with Data
+Services and Dependency Injection
+
+HttpClientModule (API calls)
+
+Observables and RxJS (basic usage)
+
+🔹 Routing and Navigation
+Setting up routes with Angular Router
+
+Route parameters
+
+Navigation between pages
+
+Lazy loading modules (basic intro)
+
+🔹 Forms in Angular
+Template-driven forms
+
+Reactive forms
+
+Form validation
