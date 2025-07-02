@@ -9,4 +9,6 @@ event binding:
 two way data binding:
     it means that data can be sent from view to template and template to view this is done by combining the event and property binding,
     it syntax is also mixture of both. [(ngModel)]="variable" 
+Directives:
+    directives in angular are way to control the look and feel of the dom, it can add , change or remove an element from the dom,there are 3 types of it , component directive, every component is a directive in angualr and then we havea structural directive which are ngIf, ngFor ngSwitch etc they can conditionlayy render or remove teh element form teh dom , and then we have attribute directive , it is used to add styling to some component it can be use as classes and as well as the attribues 
 
